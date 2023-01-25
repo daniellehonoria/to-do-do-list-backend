@@ -54,4 +54,6 @@ VALUES
 ("u005","t004"),
 ("u004", "t007");
 
+DROP Table users_tasks;
+
 
